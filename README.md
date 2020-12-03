@@ -1,1 +1,2 @@
-# mastering-react-mosh
+#React Mastering 
+
